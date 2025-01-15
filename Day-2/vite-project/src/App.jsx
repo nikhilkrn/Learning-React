@@ -1,4 +1,4 @@
-import Menu from "./components/menu"
+import Menu from "./components/Menu.jsx"
 import "./style/App.css";
 
 function App() {

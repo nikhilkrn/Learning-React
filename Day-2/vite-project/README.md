@@ -2,6 +2,8 @@
 
 A React-based restaurant menu application that displays food items with interactive features.
 
+`This project is live` [here](https://cards.nikhillkarn.com.np/)
+
 ## Features
 
 - Displays a restaurant menu with food items
