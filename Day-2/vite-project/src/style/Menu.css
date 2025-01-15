@@ -1,0 +1,13 @@
+.Foodcontainer{
+    display: flex;
+    font-size: 16px;
+    color: cadetblue;
+    gap: 20px;
+
+}
+
+.FoodItemContainer{
+    border: 1px solid gray;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px grey;
+}
